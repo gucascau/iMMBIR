@@ -1,0 +1,1 @@
+we investigated templated insertions in yeast at DSBs using amplicon sequencing across repaired locus. We document very short (most ~5-34 bp), local templated inverted insertions at DSBs. These local inversions are generated through a foldback mechanism that utilizes microhomologies adjacent to the DSB. 
