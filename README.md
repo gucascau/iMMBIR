@@ -1,6 +1,6 @@
 
 # Local Temple Inversion Analyses
-When we investigated templated insertions in yeast at DSBs using amplicon sequencing across repaired locus, we document very short (most ~2-34 bp), local templated inverted insertions at DSBs. These local inversions are generated through a foldback mechanism that utilizes microhomologies adjacent to the DSB. Here we we developed iMMBIR to detect these local short foldback inversions. 
+When we investigated templated insertions in yeast at DSBs using amplicon sequencing across repaired locus, we document very short (most ~2-34 bp), local templated inverted insertions at DSBs. These local inversions are generated through a foldback mechanism that utilizes microhomologies adjacent to the DSB. Here we developed iMMBIR to detect these local short foldback inversions. 
 
 <p align="center">
  <img src='src/MataInsertion.png' width='600'>
