@@ -12,7 +12,7 @@ Given the challenge of determining the 2-4bp template sequences, we specifically
 
 ##  Availability 
 1. Scripts for the detection of 1-8 samples that for longer local template inversion (>=5bp)
-2. Scripts for the detection of 1-8 samples that for longer local template inversion (2-4bp)
+2. Scripts for the detection of 1-8 samples that for shorter local template inversion (2-4bp)
 3. Scripts for the detection that have longer primers
 4. Scripts for the other MATa hotpot insertions
 
