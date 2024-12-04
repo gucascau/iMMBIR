@@ -23,7 +23,7 @@ Perl is used to run the scripts. The following softwares are also required:
 . bwa
 
 ## Citation
-Yang Yu, Xin Wang, Jordan Fox, Qian Li, Yang Yu, P J Hastings, Kaifu Chen, Grzegorz Ira, RPA and Rad27 limit templated and inverted insertions at DNA breaks, Nucleic Acids Research, 2024;, gkae1159, https://doi.org/10.1093/nar/gkae1159
+Yang Yu^#, Xin Wang^, Jordan Fox, Qian Li, Yang Yu, P J Hastings, Kaifu Chen#, Grzegorz Ira#, RPA and Rad27 limit templated and inverted insertions at DNA breaks, Nucleic Acids Research, 2024;, gkae1159, https://doi.org/10.1093/nar/gkae1159
 
 # Contact
 
